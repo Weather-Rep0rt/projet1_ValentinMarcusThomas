@@ -3,7 +3,7 @@
 import requests
 
 
-class music:
+class info_music:
     def __init__(self, artiste, musique):
         '''
         fonction pour construire l'objet appartenant a la classe music
